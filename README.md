@@ -1,0 +1,1 @@
+ PerimeterX Deobfuscator i have made long time ago. It's my first deobfuscator and it's full of spaghetti code. I don't know which versions it supports, public one deobfuscator I found today doesn't support the version I worked on. I also added a payload decryptor. 
